@@ -5,20 +5,16 @@ permalink: /about/
 ---
 
 ### General Information
-I am a versatile scientist with a strong background in regression and experimental design.  I welcome the challenge of explaining technical subjects to variety of audiences.  Similarly, I love discussing technical subjects to expand my understanding.  I am currently teaching a three month immersive Data Science experience at General Assembly, but am always looking for exciting new opportunities.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 ### Current Interests
 
- - Programming
- - Tech Podcasts
- - Nuclear Technologies
- - Fitness
- - General Assembly DSI
+ - dadada
+ - 13231
+ - dadadaaa
+ - d2
+ - da ww ww
 
 ### Contact me
 
-[Email: blomadam@gmail.com](mailto:blomadam@gmail.com?subject=&body=)
-[SMS me: +1(509)539-0603](sms:+3531123456789?body=This+text+will+pre-populate+the+SMS+body)
-[Call me: +1(509)539-0603](tel:+15095390603)
-
-
+[Email: gdada@gmail.com](mailto:dada@gmail.com?subject=&body=)

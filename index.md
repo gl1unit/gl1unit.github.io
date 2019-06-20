@@ -1,7 +1,7 @@
 ---
 layout: home
 paginate: false
-sub_title: "Data Science in NYC"
+sub_title: "gl1 i oslo"
 ---
 
-I'm a experimental nuclear physicist turned data scientist.  I have a history of using computer simulations for product and experimental optimizations.  I'm currently working at General Assembly in New York City, teaching their full-time Data Science Immersive focusing on machine learning in Python, statistics, and SQL.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.

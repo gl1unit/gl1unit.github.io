@@ -15,5 +15,3 @@ I'm still learning the ropes for now, but stay tuned for more (new and improved!
 -item 2
 -item 4
 -item 5
-
-

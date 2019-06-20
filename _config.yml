@@ -14,19 +14,19 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Adam Blomberg, PhD
-email: blomadam@gmail.com
-description: Data Scientist in NYC
+title: Glenn J Helgesen, Msc Supply Chain Mangement & Logistics
+email: glenn.helgesen1@gmail.com
+description: Testing
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Adam Blomberg
-  twitter: blomadam
-  linkedin: blomadam
-  picture: https://avatars2.githubusercontent.com/u/6401316?v=3&s=460
-twitter_username: blomadam
-github_username: blomadam
-logo: https://avatars2.githubusercontent.com/u/6401316?v=3&s=460 # path of site logo, e.g. "/assets/images/logo.png"
+  name: Glenn J Helgesen
+  twitter: none
+  linkedin: yes
+  picture: d
+twitter_username: yes
+github_username: gl1unit
+logo: da # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
 markdown: kramdown
