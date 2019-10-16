@@ -1,5 +1,5 @@
 ---
-layout: glenn123
+layout: post
 title: Kaggle Notater
 date: 2017-03-21
 published: true
