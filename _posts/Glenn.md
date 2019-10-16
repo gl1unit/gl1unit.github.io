@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Kaggle Notater
-date: 2017-03-21
+title: glenninoi
+date: 2017-04-21
 published: true
 ---
-HOLLA planning to use this space to showcase some of the projects and events I participate as a Data Scientist.
+dada da to use this dadada to showcase dada of the projects and events I participate as a Data Scientist.
 
 
-I'm still learning the dd for now, but stay tuned for more (new and improved!) content.
+Idadaning the dd for now, but stay tuned for more (new and improved!) content.
 
 
 
